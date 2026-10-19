@@ -16,7 +16,7 @@ The idea behind the attack was obtained without any AI assistance.
 
 ## Notes
 
-- Even though in the article it is specified the rank bound of $n(\binomial{q}{p}-\binomial{q-d}{p-d})$ for the flattening of a tensor obtained from the learning low degree polynomials, it actually works against any family of linear polynomials provided they are sparse (that is, if we pick a set $S$ of size at most $d$, and sample functions on the form $\sum_{i \in S} a_i x^{q^i}$).
+- Even though in the article it is specified the rank bound of $n(\binom{q}{p}-\binom{q-d}{p-d})$ for the flattening of a tensor obtained from the learning low degree polynomials, it actually works against any family of linear polynomials provided they are sparse (that is, if we pick a set $S$ of size at most $d$, and sample functions on the form $\sum_{i \in S} a_i x^{q^i}$).
 
 ## References
 
