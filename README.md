@@ -4,7 +4,7 @@ In this repository we present versions of a new attack that can be used against 
 
 - https://eprint.iacr.org/2021/084 (Key recovery)
 
-- https://eprint.iacr.org/2024/1706 (Key distinguish, which I think can be also used for key recovery)
+- https://eprint.iacr.org/2024/1706 (Key distinguish in smaller parameters, which I think can be also used for key recovery, and perhaps can be extended for full parameters)
 
 - https://eprint.iacr.org/2026/1650 (Key distinguish, which I think can be also used for key recovery)
 
