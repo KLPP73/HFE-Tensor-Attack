@@ -731,9 +731,10 @@ def quadratic_form_to_gfq_system(Q, L, q, n):
     return equations
 
 q=2
-n=48
-r=1
-params_ip=Params(q=2,n=n,m=n,HFEDegI=2, HFEDegJ=2,MAX_SALT=10,r=r)
+n=24
+r=2
+a=2
+params_ip=Params(q=2,n=n,m=n-a,HFEDegI=2, HFEDegJ=2,MAX_SALT=10,r=r)
 # ~ params_q2_ipdr  = Params(q=2, n=48, m=32, HFEDegI=2, HFEDegJ=0, MAX_SALT = 10, r=2, hash_length=64)
 # ~ params_ipdr  = Params(q=23, n=74, m=53, HFEDegI=1, HFEDegJ=1, MAX_SALT = 10, r=0, hash_length=57)
 # ~ params_ipdr  = Params(q=13, n=91, m=70, HFEDegI=1, HFEDegJ=0, MAX_SALT = 10, r=2, hash_length=70)

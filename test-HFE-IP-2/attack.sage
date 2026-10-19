@@ -21,12 +21,14 @@ tensor=[[pubk[i][j].list() for j in range(pubk.ncols())] for i in range(pubk.nro
 Fq=tensor[0][0][0].base_ring()
 
 
-tensor=switch_dimensions(tensor,0,1)
+tensor=switch_dimensions(tensor,0,2)
 n1,n2,n3=dimensions(tensor)
 # ~ tensor=tensor[n2:]
 
 print(dimensions(tensor))
 n1,n2,n3=dimensions(tensor)
 
-p=3
+p=4
 print(compute_stats(tensor,p,2*p+1))
+
+# ~ print(construct_attack(tensor,p,2*p+1))
