@@ -1,0 +1,232 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{cryptoeprint:2024/1706}{misc}{}{}
+      \name{author}{4}{}{%
+        {{hash=f44274318ca1a1471ac328790eae5d99}{%
+           family={COGLIATI},
+           familyi={C\bibinitperiod},
+           given={Benoit},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9644cbd64b4daa3a44b204f523a4cd49}{%
+           family={Macariot-Rat},
+           familyi={M\bibinithyphendelim R\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3d741149c6e53648bf54f8afe7786c2d}{%
+           family={Patarin},
+           familyi={P\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+        {{hash=68ceb72ed0327121aa75398e80bca130}{%
+           family={Varjabedian},
+           familyi={V\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{aca79f0d8d767ff08bb98732c8ac65f5}
+      \strng{fullhash}{4d62251962eae2bb709693ccf31ea79b}
+      \strng{fullhashraw}{4d62251962eae2bb709693ccf31ea79b}
+      \strng{bibnamehash}{aca79f0d8d767ff08bb98732c8ac65f5}
+      \strng{authorbibnamehash}{aca79f0d8d767ff08bb98732c8ac65f5}
+      \strng{authornamehash}{aca79f0d8d767ff08bb98732c8ac65f5}
+      \strng{authorfullhash}{4d62251962eae2bb709693ccf31ea79b}
+      \strng{authorfullhashraw}{4d62251962eae2bb709693ccf31ea79b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Cryptology {ePrint} Archive, Paper 2024/1706}
+      \field{title}{State of the art of {HFE} variants Is it possible to repair {HFE} with appropriate perturbations?}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1007/978-3-031-62746-0_7
+      \endverb
+      \verb{urlraw}
+      \verb https://eprint.iacr.org/2024/1706
+      \endverb
+      \verb{url}
+      \verb https://eprint.iacr.org/2024/1706
+      \endverb
+    \endentry
+    \entry{ding2020multivariate}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=c06fa102c069166074d49813ebf7b411}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Jintai},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5843fd9a338b14d7872e09716d4c5e6c}{%
+           family={Petzoldt},
+           familyi={P\bibinitperiod},
+           given={Albrecht},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4bc24025d44941b4ef69fbdaebf7a693}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Dieter\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f704ef36ed078a51558faeb8a184d37c}
+      \strng{fullhash}{f704ef36ed078a51558faeb8a184d37c}
+      \strng{fullhashraw}{f704ef36ed078a51558faeb8a184d37c}
+      \strng{bibnamehash}{f704ef36ed078a51558faeb8a184d37c}
+      \strng{authorbibnamehash}{f704ef36ed078a51558faeb8a184d37c}
+      \strng{authornamehash}{f704ef36ed078a51558faeb8a184d37c}
+      \strng{authorfullhash}{f704ef36ed078a51558faeb8a184d37c}
+      \strng{authorfullhashraw}{f704ef36ed078a51558faeb8a184d37c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{isbn}{978-1-0716-0985-9}
+      \field{series}{Advances in Information Security}
+      \field{title}{Multivariate Public Key Cryptosystems}
+      \field{volume}{91}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://link.springer.com/book/10.1007/978-1-0716-0987-3
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/book/10.1007/978-1-0716-0987-3
+      \endverb
+    \endentry
+    \entry{cryptoeprint:2021/084}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=84c46f30c10193436ceac6635537427f}{%
+           family={Macario-Rat},
+           familyi={M\bibinithyphendelim R\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3d741149c6e53648bf54f8afe7786c2d}{%
+           family={Patarin},
+           familyi={P\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd15207e6434cd2d361ff18c3e4327da}
+      \strng{fullhash}{dd15207e6434cd2d361ff18c3e4327da}
+      \strng{fullhashraw}{dd15207e6434cd2d361ff18c3e4327da}
+      \strng{bibnamehash}{dd15207e6434cd2d361ff18c3e4327da}
+      \strng{authorbibnamehash}{dd15207e6434cd2d361ff18c3e4327da}
+      \strng{authornamehash}{dd15207e6434cd2d361ff18c3e4327da}
+      \strng{authorfullhash}{dd15207e6434cd2d361ff18c3e4327da}
+      \strng{authorfullhashraw}{dd15207e6434cd2d361ff18c3e4327da}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Cryptology {ePrint} Archive, Paper 2021/084}
+      \field{title}{Ariadne Thread and Pepper: New Multivariate Cryptographic Schemes with Public Keys in Degree 3}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://eprint.iacr.org/2021/084
+      \endverb
+      \verb{url}
+      \verb https://eprint.iacr.org/2021/084
+      \endverb
+    \endentry
+    \entry{cryptoeprint:2026/1650}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=3d741149c6e53648bf54f8afe7786c2d}{%
+           family={Patarin},
+           familyi={P\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f818bb7e4d77301281bfcff95a37ec39}{%
+           family={Roullet},
+           familyi={R\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d89bf306b5d381f2d8be17d3e10ac6a}
+      \strng{fullhash}{8d89bf306b5d381f2d8be17d3e10ac6a}
+      \strng{fullhashraw}{8d89bf306b5d381f2d8be17d3e10ac6a}
+      \strng{bibnamehash}{8d89bf306b5d381f2d8be17d3e10ac6a}
+      \strng{authorbibnamehash}{8d89bf306b5d381f2d8be17d3e10ac6a}
+      \strng{authornamehash}{8d89bf306b5d381f2d8be17d3e10ac6a}
+      \strng{authorfullhash}{8d89bf306b5d381f2d8be17d3e10ac6a}
+      \strng{authorfullhashraw}{8d89bf306b5d381f2d8be17d3e10ac6a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Cryptology {ePrint} Archive, Paper 2026/1650}
+      \field{title}{D-James: Ultra Short Multivariate Signatures}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://eprint.iacr.org/2026/1650
+      \endverb
+      \verb{url}
+      \verb https://eprint.iacr.org/2026/1650
+      \endverb
+    \endentry
+    \entry{cryptoeprint:2026/404}{misc}{}{}
+      \name{author}{3}{}{%
+        {{hash=3d741149c6e53648bf54f8afe7786c2d}{%
+           family={Patarin},
+           familyi={P\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f27030e6814d4befd756e4415a124b6b}{%
+           family={Vacek},
+           familyi={V\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f818bb7e4d77301281bfcff95a37ec39}{%
+           family={Roullet},
+           familyi={R\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d340e1bb79dd6541e1bf147e7bb01e0}
+      \strng{fullhash}{0d340e1bb79dd6541e1bf147e7bb01e0}
+      \strng{fullhashraw}{0d340e1bb79dd6541e1bf147e7bb01e0}
+      \strng{bibnamehash}{0d340e1bb79dd6541e1bf147e7bb01e0}
+      \strng{authorbibnamehash}{0d340e1bb79dd6541e1bf147e7bb01e0}
+      \strng{authornamehash}{0d340e1bb79dd6541e1bf147e7bb01e0}
+      \strng{authorfullhash}{0d340e1bb79dd6541e1bf147e7bb01e0}
+      \strng{authorfullhashraw}{0d340e1bb79dd6541e1bf147e7bb01e0}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Cryptology {ePrint} Archive, Paper 2026/404}
+      \field{title}{Ultra short signatures with Dragon ${HFE_{LL'}}$}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://eprint.iacr.org/2026/404
+      \endverb
+      \verb{url}
+      \verb https://eprint.iacr.org/2026/404
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

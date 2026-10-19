@@ -10,6 +10,8 @@ In this repository we present versions of a new attack that can be used against 
 
 - https://eprint.iacr.org/2026/404 (Key recovery)
 
+This is a project I've been working on since August.
+
 The idea behind the attack was obtained without any AI assistance.
 
 ## References
